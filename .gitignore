@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*.docx
+*.tmp
+*.temp
+upload_volume*.sh
+upload_volume*.ps1
+Read_Tree_Structure_w_files.py
